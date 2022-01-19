@@ -1,0 +1,1 @@
+run='curl -sL http://foundry.paradigm.xyz | sh && export PATH="$PATH:/home/runner/.foundry/bin" && foundryup && bash'
